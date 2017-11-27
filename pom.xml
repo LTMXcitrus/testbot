@@ -10,7 +10,7 @@
 
     <properties>
         <kotlin.version>1.1.60</kotlin.version>
-        <tock>0.7.0-SNAPSHOT</tock>
+        <tock>0.7.1-SNAPSHOT</tock>
     </properties>
 
     <dependencies>
